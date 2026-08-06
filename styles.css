@@ -6,6 +6,8 @@ body {
     font-style: normal;
     color: white;
     background: linear-gradient(#a2d2ff, #e9ebc1);
+    min-height: 100vh;
+    background-repeat: no-repeat;
 }
 
 .hero {
@@ -95,6 +97,7 @@ h4 {
     margin: 50px auto;
     padding: 0 20px;
     flex-wrap: wrap;
+    margin: 50px auto 0;
 }
 
 #guide-text {
