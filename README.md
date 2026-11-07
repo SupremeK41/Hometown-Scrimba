@@ -1,3 +1,13 @@
+# Hometown — Scrimba
+
+This course project is now organised in **[scrimba-projects/hometown](https://github.com/SupremeK41/scrimba-projects/tree/main/hometown)**.
+
+Use the collection for future learning notes and development. This original repository and its history remain available.
+
+Organisation note prepared with AI assistance on 7 November 2026. Original project setup follows.
+
+---
+
 # Getting Started
 Install the dependencies and run the project
 ```
